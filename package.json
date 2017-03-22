@@ -1,0 +1,16 @@
+{
+  "name": "vue-squarepay",
+  "version": "0.1.0",
+  "description": "A button component for sending HTTP requests to Square Payments API",
+  "license": "MIT",
+  "author": "Dale Chapman <dalejchapman@gmail.com>",
+  "keywords": [
+    "javascript",
+    "squareup",
+    "square pay",
+	"tap payment",
+    "vue",
+    "vuejs",
+    "component"
+  ]
+}
